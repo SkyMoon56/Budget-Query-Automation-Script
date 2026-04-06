@@ -44,23 +44,3 @@ P## Month Year - Department.xlsx
 ```
 
 The period and month are automatically calculated based on the previous month.
-
-| Run Date | Output Filename |
-|---|---|
-| April 3, 2026 | `P03 March 2026 - Biology.xlsx` |
-| December 5, 2026 | `P11 November 2026 - Biology.xlsx` |
-
-## Sort Order
-
-**OU_BUD_ORG**
-1. Fund (A-Z)
-2. Function (A-Z)
-3. Budget Type (Z-A)
-4. Account (A-Z)
-
-**OU_BUD_SOURCE**
-1. Fund (A-Z)
-2. Source (A-Z)
-3. Function (A-Z)
-4. Budget Type (Z-A)
-5. Account (A-Z)
